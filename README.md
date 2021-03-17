@@ -10,3 +10,5 @@
 - ⚡ Fun fact: ...
 
 ![Github stats](https://github-readme-stats.vercel.app/api?username=swetakyada&show_icons=true&theme=tokyonight)
+
+<p> <img src=https://komarev.com/ghpvc/?username=swetakyada alt=swetakyda/> </p>
