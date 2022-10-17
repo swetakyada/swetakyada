@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Sweta</h1>
 
-I'm a 3rd year Computer Engineering Student, who is passionate about Web development 💻, Mobile development, Machine Learning, Competitive Programming 👩‍💻 and Open Source.
+I'm a final year Computer Engineering Student, who is passionate about Web development 💻, Mobile development, Machine Learning, Competitive Programming 👩‍💻 and Open Source.
 
 - 🔭 I’m currently working on **Data Structures and Algorithms**
 
@@ -15,7 +15,7 @@ I'm a 3rd year Computer Engineering Student, who is passionate about Web develop
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/sweta-kyada-2010b119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/sweta-kyada-2010b119a/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/sweta-kyada-2010b119a/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/swetakyada/" height="30" width="40" /></a>
 <a href="https://medium.com/@swetakyada20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@swetakyada20" height="30" width="40" /></a>
 <a href="https://instagram.com/swetakyada_20" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="swetakyada_20" height="30" width="40" /></a>
 <a href="https://twitter.com/SwetaKyada" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="swetakyada" height="30" width="40" /></a>
